@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="266.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sobre" wrappingWidth="67.13671875">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Text>
+      <Text layoutX="46.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lorem ipsum dolor sit amet. Qui nulla voluptate ad excepturi consequatur qui voluptatibus debitis non modi numquam non officia quasi. Est fugiat quidem aut impedit voluptas et impedit dolores sed quaerat dolor.Ut exercitationem ipsam et dolore dicta et quaerat illo aut maiores modi et magni cumque sed doloremque quaerat ab enim quos. Quo repellendus similique qui ipsam perferendis At ratione inventore ut veritatis aliquid est iusto sequi. Vel excepturi possimus qui incidunt obcaecati aut rerum natus et aperiam exercitationem in eius nihil eos fugiat possimus.Et ipsum quasi et sunt esse ea esse tempore et consequatur magnam et repellendus suscipit ex totam provident. Aut dolorem tempora id nemo placeat qui amet tenetur." wrappingWidth="508.998046875">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
